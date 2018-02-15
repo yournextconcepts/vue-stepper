@@ -13,5 +13,10 @@ export default {
         next: 'Próximo',
         back: 'Voltar',
         finish: 'Finalizar'
+    },
+    nl: {
+        next: 'Volgende',
+        back: 'Vorige',
+        finish: 'Voltooien'
     }
 }
